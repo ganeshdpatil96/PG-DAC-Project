@@ -1,0 +1,12 @@
+ Roles:
+
+1.	Admin -
+Admin has the authority to delete any seller or buyer. Admin can also keep an eye on products and orders placed.
+
+
+2.	 Seller or Donor -
+Seller/donor can add products, with product name, description, quantity, photo, price (sell or donate), location and seller can get the order placed by the user with user details.
+
+
+3.	Buyer or Receiver -
+Buyer or receiver can search the product according to category and place an order. The product will have the description seller name etc.
